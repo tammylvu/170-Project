@@ -5,25 +5,15 @@ Problem:  Had a very difficult knapsack problem in this format and where we have
 Created a python script to solve this problem.
 
 [P pounds]
-
 [M dollars]
-
 [N number of items]
-
 [C number of constraints]
-
 [item_name]; [class]; [weight]; [cost]; [resale value]
-
 [item_name]; [class]; [weight]; [cost]; [resale value] 
-
 ...
-
 [incompatible_class1, incompatible_class2, incompatible_class3]
-
 [incompatible_class4, incompatible_class5]
-
 ...
-
 [end of file]
 
 Solution:
