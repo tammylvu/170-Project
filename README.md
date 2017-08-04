@@ -1,6 +1,9 @@
 # 170-Project
 
 Problem:  Had a very difficult knapsack problem in this format and where we have to find the most profit:
+
+Created a python script to solve this problem.
+
 [P pounds]
 
 [M dollars]
