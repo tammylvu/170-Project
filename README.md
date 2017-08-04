@@ -4,17 +4,17 @@ Problem:  Had a very difficult knapsack problem in this format and where we have
 
 Created a python script to solve this problem.
 
-[P pounds]
-[M dollars]
-[N number of items]
-[C number of constraints]
-[item_name]; [class]; [weight]; [cost]; [resale value]
-[item_name]; [class]; [weight]; [cost]; [resale value] 
-...
-[incompatible_class1, incompatible_class2, incompatible_class3]
-[incompatible_class4, incompatible_class5]
-...
-[end of file]
+[P pounds] <br>
+[M dollars] <br>
+[N number of items] <br>
+[C number of constraints] <br>
+[item_name]; [class]; [weight]; [cost]; [resale value] <br>
+[item_name]; [class]; [weight]; [cost]; [resale value]  <br>
+... <br>
+[incompatible_class1, incompatible_class2, incompatible_class3] <br>
+[incompatible_class4, incompatible_class5] <br>
+... <br>
+[end of file] <br>
 
 Solution:
 The basis of our algorithm was a greedy one based on a ratio of each item’s resale_value / (cost * weight) ratio. 
